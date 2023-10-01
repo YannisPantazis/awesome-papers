@@ -1,5 +1,5 @@
 
-[Optimization Thery]() <br>
+[Optimization Thery](https://github.com/YannisPantazis/awesome-papers/blob/main/theory/optimization/readme.md) <br>
 
 
 ## Papers
