@@ -11,6 +11,6 @@
 
 [DDPMs/SGMs](https://github.com/YannisPantazis/awesome-papers/blob/main/models/ddpms/readme.md) <br>
 
-[DDPMs/SGMs](https://github.com/YannisPantazis/awesome-papers/blob/main/models/ddpms/readme.md) <br>
+[EBMs](https://github.com/YannisPantazis/awesome-papers/blob/main/models/ebms/readme.md) <br>
 
 [GGFs](https://github.com/YannisPantazis/awesome-papers/blob/main/models/ggfs/readme.md) <br>
