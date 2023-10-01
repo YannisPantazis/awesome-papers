@@ -1,13 +1,13 @@
 # awesome-papers
 
-[Theory](https://github.com/YannisPantazis/awesome-papers/tree/main/theory/readme.md) <br>
+[Theory](https://github.com/YannisPantazis/awesome-papers/blob/main/theory/readme.md) <br>
 
-[Models](https://github.com/YannisPantazis/awesome-papers/tree/main/models/readme.md) <br>
+[Models](https://github.com/YannisPantazis/awesome-papers/tree/blob/models/readme.md) <br>
 
-[Algorithms](https://github.com/YannisPantazis/awesome-papers/tree/main/algorithms/readme.md) <br>
+[Algorithms](https://github.com/YannisPantazis/awesome-papers/blob/main/algorithms/readme.md) <br>
 
-[Applications](https://github.com/YannisPantazis/awesome-papers/tree/main/applications/readme.md) <br>
+[Applications](https://github.com/YannisPantazis/awesome-papers/blob/main/applications/readme.md) <br>
 
-[Software](https://github.com/YannisPantazis/awesome-papers/tree/main/software/readme.md) <br>
+[Software](https://github.com/YannisPantazis/awesome-papers/tree/blob/software/readme.md) <br>
 
-[Databases](https://github.com/YannisPantazis/awesome-papers/tree/main/databases/readme.md) <br>
+[Databases](https://github.com/YannisPantazis/awesome-papers/tree/blob/databases/readme.md) <br>
