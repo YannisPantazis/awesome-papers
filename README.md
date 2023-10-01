@@ -8,4 +8,6 @@
 
 [Applications](https://github.com/YannisPantazis/awesome-papers/tree/main/applications) <br>
 
+[Software](https://github.com/YannisPantazis/awesome-papers/tree/main/software) <br>
+
 [Databases](https://github.com/YannisPantazis/awesome-papers/tree/main/databases) <br>
