@@ -8,6 +8,6 @@
 
 [Applications](https://github.com/YannisPantazis/awesome-papers/blob/main/applications/readme.md) <br>
 
-[Software](https://github.com/YannisPantazis/awesome-papers/tree/blob/software/readme.md) <br>
+[Software](https://github.com/YannisPantazis/awesome-papers/blob/main/software/readme.md) <br>
 
-[Databases](https://github.com/YannisPantazis/awesome-papers/tree/blob/databases/readme.md) <br>
+[Databases](https://github.com/YannisPantazis/awesome-papers/blob/main/databases/readme.md) <br>
