@@ -1,4 +1,4 @@
-# awesome-papers
+# Awesome Paper Repository
 
 [Theory](https://github.com/YannisPantazis/awesome-papers/blob/main/theory/readme.md) <br>
 
