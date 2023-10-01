@@ -2,7 +2,7 @@
 
 [Theory](https://github.com/YannisPantazis/awesome-papers/blob/main/theory/readme.md) <br>
 
-[Models](https://github.com/YannisPantazis/awesome-papers/tree/blob/models/readme.md) <br>
+[Models](https://github.com/YannisPantazis/awesome-papers/blob/main/models/readme.md) <br>
 
 [Algorithms](https://github.com/YannisPantazis/awesome-papers/blob/main/algorithms/readme.md) <br>
 
