@@ -11,7 +11,7 @@
 
 # VAEs
 
-[VQ-VAE-2](https://arxiv.org/pdf/1906.00446.pdf) <br>
+[Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/pdf/1906.00446.pdf) (NeurIPS, 2019) <br>
 
 [VAEs](https://github.com/YannisPantazis/awesome-papers/blob/main/models/vaes/readme.md) <br>
 
