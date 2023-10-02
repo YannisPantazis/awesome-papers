@@ -4,6 +4,8 @@
 [Inverse Optimization: Theory and Applications](https://arxiv.org/pdf/2109.03920.pdf) <br>
 
 ## Information Theory
+[Mode-Seeking Divergences: Theory and Applications to GANs](https://proceedings.mlr.press/v206/ting-li23a/ting-li23a.pdf) (AISTATS, 2023) <br>
+
 
 ## Optimal Transport
 
