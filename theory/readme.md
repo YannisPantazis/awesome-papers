@@ -10,7 +10,7 @@
 
 ## Uncertainty Quantification
 
-[DEUP: Direct Epistemic Uncertainty Prediction](https://arxiv.org/pdf/2102.08501.pdf) (Transactions MLR, 2023) <br>
+[DEUP: Direct Epistemic Uncertainty Prediction](https://arxiv.org/pdf/2102.08501.pdf) (Transactions on MLR, 2023) <br>
 
 ## Various Papers
 
