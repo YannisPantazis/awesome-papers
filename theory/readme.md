@@ -3,6 +3,13 @@
 [Frameworks and Results in Distributionally Robust Optimization](https://ojmo.centre-mersenne.org/item/10.5802/ojmo.15.pdf) (OJMO, 2022) <br>
 [Inverse Optimization: Theory and Applications](https://arxiv.org/pdf/2109.03920.pdf) <br>
 
+## Hyperparameter Optimization
+[mplicit Differentiation for Fast Hyperparameter Selection in Non-Smooth Convex Learning](https://jmlr.org/papers/volume23/21-0486/21-0486.pdf) (JMLR, 2022) <br>
+[Gradient-based optimization of hyperparameters](https://ieeexplore.ieee.org/document/6789800) (Neural computation, 2000) <br>
+[Hyperparameter optimization with approximate gradient](https://proceedings.mlr.press/v48/pedregosa16.html) (ICML, 2016) <br>
+[Optimizing Millions of Hyperparameters by Implicit Differentiation](http://proceedings.mlr.press/v108/lorraine20a/lorraine20a.pdf) (AISTATS, 2020) <br>
+[Meta-Learning with Implicit Gradients](https://proceedings.neurips.cc/paper_files/paper/2019/file/072b030ba126b2f4b2374f342be9ed44-Paper.pdf) (NeurIPS, 2019) <br>
+
 ## Information Theory
 [Mode-Seeking Divergences: Theory and Applications to GANs](https://proceedings.mlr.press/v206/ting-li23a/ting-li23a.pdf) (AISTATS, 2023) <br>
 
