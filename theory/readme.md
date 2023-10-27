@@ -9,6 +9,8 @@
 [Hyperparameter optimization with approximate gradient](https://proceedings.mlr.press/v48/pedregosa16.html) (ICML, 2016) <br>
 [Optimizing Millions of Hyperparameters by Implicit Differentiation](http://proceedings.mlr.press/v108/lorraine20a/lorraine20a.pdf) (AISTATS, 2020) <br>
 [Meta-Learning with Implicit Gradients](https://proceedings.neurips.cc/paper_files/paper/2019/file/072b030ba126b2f4b2374f342be9ed44-Paper.pdf) (NeurIPS, 2019) <br>
+[Efficient and Modular Implicit Differentiation](https://proceedings.neurips.cc/paper_files/paper/2022/file/228b9279ecf9bbafe582406850c57115-Paper-Conference.pdf) (NeurIPS, 2022) <br>
+[Synergies between Disentanglement and Sparsity: Generalization and Identifiability in Multi-Task Learning](https://proceedings.mlr.press/v202/lachapelle23a/lachapelle23a.pdf) (ICML, 2023) <br>
 
 ## Information Theory
 [Mode-Seeking Divergences: Theory and Applications to GANs](https://proceedings.mlr.press/v206/ting-li23a/ting-li23a.pdf) (AISTATS, 2023) <br>
