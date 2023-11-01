@@ -4,3 +4,6 @@
 
 ## Representation Learning
 [Emergence of Invariance and Disentanglement in Deep Representations](https://www.jmlr.org/papers/volume19/17-646/17-646.pdf) (JMLR, 2018) <br>
+
+## Various
+[Dynamic Neural Networks: A Survey](https://ieeexplore.ieee.org/document/9560049) (IEEE-TPAMI, 2022) <br>
