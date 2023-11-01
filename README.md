@@ -18,3 +18,5 @@
 
 [SCIENCE - The Endless Frontier](https://www.nsf.gov/about/history/EndlessFrontier_w.pdf) (A Report to the President by Vannevar Bush, 1945) 
 [html version](https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm) <br>
+
+[The Joy of Learning. Main Ideas, Scaffolding, and Thinking](https://users.cs.duke.edu/~cfs/pubs/datamodel.pdf) (Building new concepts by modeling: HOWTO by Josh & Frank Starmer, 2003) <br>
