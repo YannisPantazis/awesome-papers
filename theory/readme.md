@@ -32,4 +32,5 @@
 [Theoretical issues in deep networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1907369117) (PNAS, 2020)<br>
 [A Short Introduction to Model Selection, Kolmogorov Complexity and Minimum Description Length](https://arxiv.org/pdf/1005.2364.pdf) (2010) <br>
 [The Joy of Learning. Main Ideas, Scaffolding, and Thinking: Building new concepts by modeling: HOWTO](https://users.cs.duke.edu/~cfs/pubs/datamodel.pdf) (2003) <br>
+[A Survey of Inductive Biases for Factorial Representation-Learning](https://arxiv.org/pdf/1612.05299.pdf) (2016) <br>
 
