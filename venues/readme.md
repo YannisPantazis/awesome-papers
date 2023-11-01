@@ -1,5 +1,5 @@
 ## Conferences
-[Mathematical and Scientific Machine Learning](https://msml21.github.io/) with [Proceddings](https://proceedings.mlr.press/v145/) <br>
+[Mathematical and Scientific Machine Learning](https://msml21.github.io/) with [Proceedings](https://proceedings.mlr.press/v145/) <br>
 [Mathematical and Scientific Machine Learning - ICERM](https://icerm.brown.edu/topical_workshops/tw-23-msml/) <br>
 
 ## Workshops
