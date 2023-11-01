@@ -12,6 +12,8 @@
 
 [Databases](https://github.com/YannisPantazis/awesome-papers/blob/main/databases/readme.md) <br>
 
+[Venues](https://github.com/YannisPantazis/awesome-papers/blob/main/venues/readme.md) <br>
+
 ## Timeless Reading List
 
 [SCIENCE - The Endless Frontier](https://www.nsf.gov/about/history/EndlessFrontier_w.pdf) (A Report to the President by Vannevar Bush, 1945) 
