@@ -8,6 +8,8 @@
 
 [Applications](https://github.com/YannisPantazis/awesome-papers/blob/main/applications/readme.md) <br>
 
+[PINNs](https://github.com/YannisPantazis/awesome-papers/blob/main/pinns/readme.md) <br>
+
 [Software](https://github.com/YannisPantazis/awesome-papers/blob/main/software/readme.md) <br>
 
 [Databases](https://github.com/YannisPantazis/awesome-papers/blob/main/databases/readme.md) <br>
