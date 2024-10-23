@@ -25,7 +25,9 @@
 
 # DDPMs/SGMs
 
-[DDPMs/SGMs](https://github.com/YannisPantazis/awesome-papers/blob/main/models/ddpms/readme.md) <br>
+[Consistency Models](https://arxiv.org/pdf/2303.01469) (ICML, 2023) <br>
+
+[DDPMs/SGMs](https://github.com/YannisPantazis/awesome-papers/blob/main/models/dpms/readme.md) <br>
 
 # EBMs
 
