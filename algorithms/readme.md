@@ -1,6 +1,12 @@
 
 ## Gradient Descent
 
+## Disentangled Representation Learning
+
+[Tripod: Three Complementary Inductive Biases for Disentangled Representation Learning](https://openreview.net/pdf?id=0iXp5P77ho) (ICML, 2024)
+[The Hessian Penalty: A Weak Prior for Unsupervised Disentanglement](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510579.pdf) (ECCV, 2020)
+[Finite Scalar Quantization: VQ-VAE Made Simple](https://openreview.net/pdf?id=8ishA3LxN8) (ICLR, 2024)
+
 ## Meta-learning
 
 [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](http://proceedings.mlr.press/v70/finn17a/finn17a.pdf) (ICML, 2017)
